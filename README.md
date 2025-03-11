@@ -2,6 +2,8 @@
 
 # Hi 👋, I'm Janani Asokan
 
+![image](https://github.com/user-attachments/assets/9f0d1e5e-dfd3-4a25-a9f0-0ef059bdf2b1)
+
 ![Girl Programmer](https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif)
 
 ## 🚀 AI Enthusiast | System Design | DevOps Engineer
