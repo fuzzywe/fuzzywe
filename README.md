@@ -46,6 +46,7 @@
 ---
 
 ### 🛠️ Languages and Tools
+### 🛠️ Languages and Tools
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -56,7 +57,10 @@
         <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
       <br>Java
     </td>
-   
+    <td align="center" width="96"> 
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" height="48" alt="TypeScript" />
+      <br>TypeScript
+    </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
       <br>C++
@@ -71,10 +75,20 @@
       </a>
       <br>Python
     </td>
- 
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <br>MySQL
+    </td>
   </tr>
   <tr>
-   
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
+      <br>REST
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" />
+      <br>Redux
+    </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
       <br>HTML5
@@ -97,6 +111,8 @@
     </td>
   </tr>
 </table>
+
+---
 
 ---
 
