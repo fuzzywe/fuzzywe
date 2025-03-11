@@ -132,8 +132,8 @@
 ---
 
 ### 🏆 Achievements
-- **LeetCode**: Solved 200+ problems and counting.
-- **HackerRank**: 5-star coder in Python and Java.
+- **LeetCode**: Solved 400+ problems and counting.
+
 - **Hackathons**: Participated in 3+ hackathons, winning accolades for innovative projects.
 
 ---
@@ -152,7 +152,7 @@
 
 ### 🎨 Fun Projects
 - **Portfolio Website**: Built a responsive portfolio to showcase my skills and projects.
-- **AI Chatbot**: Developed a chatbot using Python and NLP.
+- **AI Chatbot**: Developed a chatbot using Python and NLP for my portfolio.
 - **E-commerce Website**: Created a full-stack e-commerce platform using React and Node.js.
 
 ---
