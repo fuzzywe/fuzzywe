@@ -6,14 +6,7 @@
 ![image](https://github.com/user-attachments/assets/62e72b25-ebfb-4c79-a3ee-cb3708ed3a45)
 
 
-## 🚀 AI Enthusiast | System Design | DevOps Engineer
 
-### 🌟 About Me:
-- 💻 Passionate **AI, System Design, and DevOps** developer
-- 🔍 Learning **Scalability, Microservices & Distributed Systems**
-- 🛠️ Working with **Cloud Computing, Kubernetes, and APIs**
-- 🚀 Strong problem-solving mindset
-- ⚡ Fun Fact: I love **breaking down complex systems!**
 
 [![MasterHead](https://your-gif-link-here)](https://portfolio-y29o.vercel.app)
 
@@ -21,18 +14,24 @@
 <h2 align="center">Welcome to my GitHub profile!</h2>
 <span align="center">Check out my portfolio: <a href="https://portfolio-y29o.vercel.app" target="_blank">https://portfolio-y29o.vercel.app</a></span>
 
-<img align="right" alt="Coding" width="400" src="https://your-gif-link-here">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janani-asokan&label=Profile%20views&color=0e75b6&style=flat" alt="janani-asokan" /> </p>
 
-<p align="left"> <a href="https://twitter.com/your-twitter" target="blank"><img src="https://img.shields.io/twitter/follow/your-twitter?logo=twitter&style=for-the-badge" alt="your-twitter" /></a> </p>
 
 ---
+
+
+## 🚀 AI Enthusiast | System Design | DevOps Engineer
+
+
+
 
 ### 🚀 About Me
 - 🏫 I am currently an postgraduate at **VIT vellore**.
 - 🎓 Pursuing **M.Tech in Computer Science and Engineering** with a specialization in **AI and ML**.
-- 💻 Passionate about **web development, AI, and problem-solving**.
+- 🔍 Learning **Scalability, Microservices & Distributed Systems**
+- 💻 Passionate about **AI, System Design, and DevOps** developer
 - 🌱 Always learning and exploring new technologies.
 - 💬 Ask me about **HTML/CSS, React, Java, or anything tech-related!**
 - 📫 Reach me at **jananiasokanse@gmail.com**.
@@ -165,57 +164,3 @@ I occasionally write about tech and my learning journey. Check out my blog [here
 ### 📫 Let's Collaborate!
 If you’re interested in working together or just want to chat about tech, feel free to reach out! 😊
 
-
-# Hi 👋, I'm Janani Asokan
-
-![Girl Programmer](https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif)
-
-## 🚀 AI Enthusiast | System Design | DevOps Engineer
-
-### 🌟 About Me:
-- 💻 Passionate **AI, System Design, and DevOps** developer
-- 🔍 Learning **Scalability, Microservices & Distributed Systems**
-- 🛠️ Working with **Cloud Computing, Kubernetes, and APIs**
-- 🚀 Strong problem-solving mindset
-- ⚡ Fun Fact: I love **breaking down complex systems!**
-
-  ---
-
-  ### 🌟 What Makes Me Unique?
-- **Problem Solver**: I thrive on tackling challenging problems and finding efficient solutions.
-- **Creative Thinker**: I enjoy blending creativity with technology to build unique projects.
-- **Team Player**: I love collaborating with others to bring ideas to life.
-- **Continuous Learner**: I’m always upskilling and staying updated with the latest tech trends.
-
-- 
-
-### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/janani-asokan)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-orange?style=for-the-badge&logo=leetcode)](https://www.leetcode.com/janani)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Solve-green?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/janani)
-
----
-
-## ⚙️ Languages and Tools:
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
----
-
-## 📊 GitHub Stats:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=janani-asokan&show_icons=true&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=janani-asokan&theme=radical)
-
----
-
-🌟 **Let's Connect & Build the Future!**
-
-
-### 📝 Blog
-I occasionally write about tech and my learning journey. Check out my blog [here](https://medium.com/@ChicaTechHub).
