@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Janani Asokan</h1>
-<h2 align="center">Welcome to my GitHub profile!</h2>
+
 
 
 
@@ -9,11 +9,13 @@
 ![image](https://github.com/user-attachments/assets/62e72b25-ebfb-4c79-a3ee-cb3708ed3a45)
 
 
+![h](https://github.com/user-attachments/assets/b5095666-891d-46be-8634-724c2c539e81)
 
 
+<h2 align="center">Welcome to my GitHub profile!</h2>
 
 
-**Check out my portfolio**[here](https://portfolio-y29o.vercel.app)
+**Check out my portfolio** [here](https://portfolio-y29o.vercel.app)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janani-asokan&label=Profile%20views&color=0e75b6&style=flat" alt="janani-asokan" /> </p>
 
@@ -116,15 +118,15 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fuzzywe &show_icons=true&locale=en&layout=compact" alt="janani-asokan" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fuzzywe&show_icons=true&locale=en&layout=compact" alt="fuzzywe" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=fuzzywe &show_icons=true&locale=en" alt="janani-asokan" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fuzzywe&show_icons=true&locale=en" alt="fuzzywe" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fuzzywe &" alt="janani-asokan" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fuzzywe&" alt="fuzzywe" />
 </p>
 
 ---
