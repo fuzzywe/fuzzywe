@@ -4,9 +4,6 @@
 
 
 ![h](https://github.com/user-attachments/assets/b5095666-891d-46be-8634-724c2c539e81)
-
-
-
 ![image](https://github.com/user-attachments/assets/62e72b25-ebfb-4c79-a3ee-cb3708ed3a45)
 
 
@@ -60,8 +57,8 @@
       <br>Java
     </td>
     <td align="center" width="96"> 
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" height="48" alt="TypeScript" />
-      <br>TypeScript
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="48" height="48" alt="Aws" />
+      <br>AWS
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
@@ -77,20 +74,10 @@
       </a>
       <br>Python
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      <br>MySQL
-    </td>
+ 
   </tr>
   <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
-      <br>REST
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" />
-      <br>Redux
-    </td>
+   
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
       <br>HTML5
