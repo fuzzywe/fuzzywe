@@ -30,13 +30,13 @@
 ---
 
 ### 🚀 About Me
-- 🏫 I am currently an undergraduate at **VIT Chennai**.
-- 🎓 Pursuing **B.Tech in Computer Science and Engineering** with a specialization in **AI and ML**.
+- 🏫 I am currently an postgraduate at **VIT vellore**.
+- 🎓 Pursuing **M.Tech in Computer Science and Engineering** with a specialization in **AI and ML**.
 - 💻 Passionate about **web development, AI, and problem-solving**.
 - 🌱 Always learning and exploring new technologies.
 - 💬 Ask me about **HTML/CSS, React, Java, or anything tech-related!**
-- 📫 Reach me at **your-email@gmail.com**.
-- ⚡ Fun fact: I love solving puzzles and participating in coding competitions!
+- 📫 Reach me at **jananiasokanse@gmail.com**.
+- ⚡ Fun fact: I love solving puzzles, suduko and participating in coding competitions!
 
 ---
 
@@ -118,15 +118,15 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=janani-asokan&show_icons=true&locale=en&layout=compact" alt="janani-asokan" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fuzzywe &show_icons=true&locale=en&layout=compact" alt="janani-asokan" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=janani-asokan&show_icons=true&locale=en" alt="janani-asokan" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fuzzywe &show_icons=true&locale=en" alt="janani-asokan" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=janani-asokan&" alt="janani-asokan" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fuzzywe &" alt="janani-asokan" />
 </p>
 
 ---
