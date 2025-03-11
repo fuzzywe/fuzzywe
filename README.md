@@ -13,46 +13,40 @@
 - 🚀 Strong problem-solving mindset
 - ⚡ Fun Fact: I love **breaking down complex systems!**
 
-### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/janani-asokan)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-orange?style=for-the-badge&logo=leetcode)](https://www.leetcode.com/janani)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Solve-green?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/janani)
+[![MasterHead](https://your-gif-link-here)](https://portfolio-y29o.vercel.app)
+
+<h1 align="center">Hi 👋, I'm Janani Asokan</h1>
+<h2 align="center">Welcome to my GitHub profile!</h2>
+<span align="center">Check out my portfolio: <a href="https://portfolio-y29o.vercel.app" target="_blank">https://portfolio-y29o.vercel.app</a></span>
+
+<img align="right" alt="Coding" width="400" src="https://your-gif-link-here">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=janani-asokan&label=Profile%20views&color=0e75b6&style=flat" alt="janani-asokan" /> </p>
+
+<p align="left"> <a href="https://twitter.com/your-twitter" target="blank"><img src="https://img.shields.io/twitter/follow/your-twitter?logo=twitter&style=for-the-badge" alt="your-twitter" /></a> </p>
 
 ---
 
-## ⚙️ Languages and Tools:
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
----
-
-## 📊 GitHub Stats:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=janani-asokan&show_icons=true&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=janani-asokan&theme=radical)
+### 🚀 About Me
+- 🏫 I am currently an undergraduate at **VIT Chennai**.
+- 🎓 Pursuing **B.Tech in Computer Science and Engineering** with a specialization in **AI and ML**.
+- 💻 Passionate about **web development, AI, and problem-solving**.
+- 🌱 Always learning and exploring new technologies.
+- 💬 Ask me about **HTML/CSS, React, Java, or anything tech-related!**
+- 📫 Reach me at **your-email@gmail.com**.
+- ⚡ Fun fact: I love solving puzzles and participating in coding competitions!
 
 ---
 
-🌟 **Let's Connect & Build the Future!**
+### 🌟 What Makes Me Unique?
+- **Problem Solver**: I thrive on tackling challenging problems and finding efficient solutions.
+- **Creative Thinker**: I enjoy blending creativity with technology to build unique projects.
+- **Team Player**: I love collaborating with others to bring ideas to life.
+- **Continuous Learner**: I’m always upskilling and staying updated with the latest tech trends.
 
+---
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/parthibamukhop1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="parthibamukhop1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/parthiba-mukhopadhyay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parthiba-mukhopadhyay" height="30" width="40" /></a>
-<a href="https://instagram.com/_.parthiba._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.parthiba._" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/meparthiba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="meparthiba" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/paradox_2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="paradox_2002" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/parthibamukhopadhyay2021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="parthibamukhopadhyay2021" height="30" width="40" /></a>
-</p>
-
-## Languages and Tools
+### 🛠️ Languages and Tools
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -64,7 +58,7 @@
       <br>Java
     </td>
     <td align="center" width="96"> 
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" height="48" alt="Git" />
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" height="48" alt="TypeScript" />
       <br>TypeScript
     </td>
     <td align="center" width="96">
@@ -75,7 +69,7 @@
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>JavaScript
     </td>
-     <td align="center" width="96">
+    <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
       </a>
@@ -87,46 +81,84 @@
     </td>
   </tr>
   <tr>
-  <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
       <br>REST
+    </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" />
       <br>Redux
     </td>
-    <td align="center"  width="96">
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
       <br>HTML5
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
       <br>CSS
     </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
       <br>Bootstrap
     </td>
-      <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
       <br>MongoDB
     </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
-      <br>Nodejs
-      </td>
-      </td>
-   
-  
- </tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      <br>Node.js
+    </td>
+  </tr>
 </table>
-<br><br>
-</tr>
-</tr></tr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parthiba-mukhopadhyay&show_icons=true&locale=en&layout=compact" alt="parthiba-mukhopadhyay" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parthiba-mukhopadhyay&show_icons=true&locale=en" alt="parthiba-mukhopadhyay" /></p>
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=janani-asokan&show_icons=true&locale=en&layout=compact" alt="janani-asokan" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parthiba-mukhopadhyay&" alt="parthiba-mukhopadhyay" /></p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=janani-asokan&show_icons=true&locale=en" alt="janani-asokan" />
+</p>
 
-![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=Parthiba-Mukhopadhyay&combine_all_yearly_contributions=true&limit=6)
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=janani-asokan&" alt="janani-asokan" />
+</p>
+
+---
+
+### 🏆 Achievements
+- **LeetCode**: Solved 200+ problems and counting.
+- **HackerRank**: 5-star coder in Python and Java.
+- **Hackathons**: Participated in 3+ hackathons, winning accolades for innovative projects.
+
+---
+
+### 🌐 Connect with Me
+<p align="left">
+  <a href="https://twitter.com/your-twitter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="your-twitter" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin" height="30" width="40" /></a>
+  <a href="https://instagram.com/your-instagram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="your-instagram" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/your-hackerrank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="your-hackerrank" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/your-leetcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="your-leetcode" height="30" width="40" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/your-geeksforgeeks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="your-geeksforgeeks" height="30" width="40" /></a>
+</p>
+
+---
+
+### 🎨 Fun Projects
+- **Portfolio Website**: Built a responsive portfolio to showcase my skills and projects.
+- **AI Chatbot**: Developed a chatbot using Python and NLP.
+- **E-commerce Website**: Created a full-stack e-commerce platform using React and Node.js.
+
+---
+
+### 📝 Blog
+I occasionally write about tech and my learning journey. Check out my blog [here](#).
+
+---
+
+### 📫 Let's Collaborate!
+If you’re interested in working together or just want to chat about tech, feel free to reach out! 😊
