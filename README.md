@@ -1,5 +1,12 @@
 
 
+<h1 align="center">Hi 👋, I'm Janani Asokan</h1>
+
+
+
+<h2 align="center">Welcome to my GitHub profile!</h2>
+
+
 
 
 ![image](https://github.com/user-attachments/assets/62e72b25-ebfb-4c79-a3ee-cb3708ed3a45)
@@ -7,10 +14,6 @@
 
 
 
-
-
-<h1 align="center">Hi 👋, I'm Janani Asokan</h1>
-<h2 align="center">Welcome to my GitHub profile!</h2>
 
 
 **Check out my portfolio**[here](https://portfolio-y29o.vercel.app)
