@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Janani Asokan
 
-![h](https://github.com/user-attachments/assets/ac47a321-3fb6-4148-a9ad-37e0f7e2b59e)
+
 ![image](https://github.com/user-attachments/assets/62e72b25-ebfb-4c79-a3ee-cb3708ed3a45)
 
 
@@ -164,3 +164,46 @@ I occasionally write about tech and my learning journey. Check out my blog [here
 
 ### 📫 Let's Collaborate!
 If you’re interested in working together or just want to chat about tech, feel free to reach out! 😊
+
+
+# Hi 👋, I'm Janani Asokan
+
+![Girl Programmer](https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif)
+
+## 🚀 AI Enthusiast | System Design | DevOps Engineer
+
+### 🌟 About Me:
+- 💻 Passionate **AI, System Design, and DevOps** developer
+- 🔍 Learning **Scalability, Microservices & Distributed Systems**
+- 🛠️ Working with **Cloud Computing, Kubernetes, and APIs**
+- 🚀 Strong problem-solving mindset
+- ⚡ Fun Fact: I love **breaking down complex systems!**
+
+### 📫 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/janani-asokan)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-orange?style=for-the-badge&logo=leetcode)](https://www.leetcode.com/janani)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Solve-green?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/janani)
+
+---
+
+## ⚙️ Languages and Tools:
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+---
+
+## 📊 GitHub Stats:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=janani-asokan&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=janani-asokan&theme=radical)
+
+---
+
+🌟 **Let's Connect & Build the Future!**
+
+
