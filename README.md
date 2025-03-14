@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Janani Asokan</h1>
 
 
-![h](https://github.com/user-attachments/assets/b5095666-891d-46be-8634-724c2c539e81)
 ![image](https://github.com/user-attachments/assets/62e72b25-ebfb-4c79-a3ee-cb3708ed3a45)
 
 
