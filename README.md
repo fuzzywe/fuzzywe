@@ -11,7 +11,7 @@
 <h2 align="center">Welcome to my GitHub profile!</h2>
 
 
-
+check out my portfolio [here](https://portfolio-y29o.vercel.app/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janani-asokan&label=Profile%20views&color=0e75b6&style=flat" alt="janani-asokan" /> </p>
 
@@ -31,7 +31,7 @@
 - 💻 Passionate about **AI, System Design, and DevOps** developer
 - 🌱 Always learning and exploring new technologies.
 - 💬 Ask me about **HTML/CSS, React, Java, or anything tech-related!**
-- 📫 Reach me at **ruthikaj21@gmail.com**.
+- 📫 Reach me at **jananiasokanse@gmail.com**.
 - ⚡ Fun fact: I love solving puzzles, suduko and participating in coding competitions!
 
 ---
