@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Ruthika J</h1>
+<h1 align="center">Hi 👋, I'm Janani asokan</h1>
 
 
 ![image](https://github.com/user-attachments/assets/62e72b25-ebfb-4c79-a3ee-cb3708ed3a45)
